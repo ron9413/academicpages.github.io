@@ -10,3 +10,5 @@ redirect_from:
 I am currently an undergraduate student finishing my final year at National Taiwan University. My research interests lie in Deep Learning and its application, especially on Natural Language Processing, Speech Processing and Computer Vision.
 
 Here is my [CV](https://ron9413.github.io/files/cv-pin-jung.pdf).
+
+**Note: The site is still under construction.**
