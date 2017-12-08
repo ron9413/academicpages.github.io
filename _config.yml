@@ -172,9 +172,6 @@ collections:
   teaching:
     output: true
     permalink: /:collection/:path/
-  activities:
-    output: true
-    permalink: /:collection/:path/
   publications:
     output: true
     permalink: /:collection/:path/
@@ -213,15 +210,6 @@ defaults:
   - scope:
       path: ""
       type: teaching
-    values:
-      layout: single
-      author_profile: true
-      share: true
-      comments: true
-  # _activities
-  - scope:
-      path: ""
-      type: activities
     values:
       layout: single
       author_profile: true
