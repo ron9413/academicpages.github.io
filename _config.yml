@@ -10,7 +10,8 @@ locale                   : "en-US"
 title                    : "Home"
 title_separator          : "-"
 name                     : &name "Pin-Jung Chen"
-description              : &description "Prospective M.S./Ph.D. Student"
+description              : &description "Master of Computational Data Science at Carnegie Mellon University |
+                                         Seeking ML or Software Engineering Internship for Summer 2019"
 url                      : https://ron9413.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "ron9413.github.io"
@@ -80,7 +81,7 @@ analytics:
 author:
   name             : "Pin-Jung Chen"
   avatar           : "avatar.jpg"
-  bio              : "Master of Computational Data Science at Carnegie Mellon |
+  bio              : "Master of Computational Data Science at Carnegie Mellon University |
                       Seeking ML or Software Engineering Internship for Summer 2019"
   location         : "Pittsburgh, PA"
   employer         : "Carnegie Mellon University"
