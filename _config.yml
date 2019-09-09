@@ -11,7 +11,7 @@ title                    : "Home"
 title_separator          : "-"
 name                     : &name "Pin-Jung Chen"
 description              : &description "Master of Computational Data Science at Carnegie Mellon University |
-                                         Seeking ML or Software Engineering Internship for Summer 2019"
+                                         Seeking Machine Learning or Software Engineer full-time positions starting 2020"
 url                      : https://ron9413.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "ron9413.github.io"
