@@ -3,11 +3,10 @@ title: "Learning Pose-Aware 3D Reconstruction via 2D-3D Self-Consistency"
 collection: publications
 permalink: /publications/2019-05-12-icassp-paper
 venue: "IEEE International Conference on Acoustics, Speech, and Signal Processing (ICASSP)"
-excerpt: 'Author: Yi-Lun Liao, Yao-Cheng Yang, Yuan-Fang Lin,Pin-Jung Chen, Chia-Wen Kuo, Wei-Chen Chiu, Yu-Chiang FrankWang'
+excerpt: 'Author: Yi-Lun Liao, Yao-Cheng Yang, Yuan-Fang Lin, Pin-Jung Chen, Chia-Wen Kuo, Wei-Chen Chiu, Yu-Chiang Frank Wang'
 date: 2019-05-12
 #paperurl: https://ron9413.github.io/files/ICASSP-paper.pdf
-#citation: 'Pin-Jung, Chen. (2019). "Learning Pose-Aware 3D Reconstruction via 2D-3D Self-Consistency" <i>IEEE International Conference on
-Acoustics, Speech, and Signal Processing (ICASSP)</i>. 1(1).'
+#citation: 'Pin-Jung, Chen. (2019). "Learning Pose-Aware 3D Reconstruction via 2D-3D Self-Consistency" <i>IEEE International Conference on Acoustics, Speech, and Signal Processing (ICASSP)</i>. 1(1).'
 ---
 
 [arXiv](https://arxiv.org/pdf/1709.07862.pdf)
